@@ -1,0 +1,50 @@
+p{
+    text-align: center;
+}
+#text-align{
+    text-align: center;
+    text-decoration: blue wavy underline ;
+}
+a{
+    text-decoration: none;
+}
+#h1{
+    /* font-weight: lighter; */
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+}
+#h2{
+    /* font-weight: bold; */
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+#h3{
+    /* font-weight: normal; */
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h4{
+    /* font-weight: bolder; */
+    font-weight: 900;
+    font-family: sans-serif
+}
+
+.div1{
+    height: 110px;
+    background-color: aqua;
+    margin: 5px;
+    line-height: 35px;
+    text-transform: capitalize;
+}
+.div2{
+    height: 120px;
+    background-color: aqua;
+    margin: 5px;
+    text-transform: uppercase;
+}
+.div3{
+    height: 1a20px;
+    background-color: aqua;
+    margin: 5px;
+    text-transform: lowercase;
+}
